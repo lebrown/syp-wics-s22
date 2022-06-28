@@ -1,6 +1,6 @@
 # syp-wics-s22
 Data Science examples for SYP WiCS summer 2022
----
+
 
 Repository to share introductory notebooks for learning about Data Science. 
 
